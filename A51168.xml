@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monsieur in a mouse-trap, or, The Parable of the shark and herring-pond by the author of The magpies.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51168</idno>
+            <idno type="STC">Wing M2459</idno>
+            <idno type="STC">ESTC R31031</idno>
+            <idno type="EEBO-CITATION">11766766</idno>
+            <idno type="OCLC">ocm 11766766</idno>
+            <idno type="VID">48766</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51168)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48766)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1489:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Monsieur in a mouse-trap, or, The Parable of the shark and herring-pond by the author of The magpies.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed,</publisher>
+                  <pubPlace>[Edinburgh?] :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Chetham's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Europe --  History --  17th century --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="parable">
+            <pb n="1" facs="tcp:48766:1" rendition="simple:additions"/>
+            <head>Monſieur in a Mouſe-Trap: or the Parable of the <hi>Shark</hi> and <hi>Herring-Pond</hi>
+            </head>
+            <byline>By the Author of the Magpies.</byline>
+            <p>THere is an old Engliſh Proverb, that <hi>Truth muſt not be utter'd at all times,</hi> nor to all perſons; and that is the reaſon, I ſuppoſe, why men of late publiſh their Sentiments in <hi>Maſquerado.</hi> We have already ſeen the Parables of the <hi>Bear-bait<g ref="char:EOLhyphen"/>ing,</hi> and the <hi>Magpies;</hi> now give me leave to preſent you with that of the <hi>Shark</hi> and the <hi>Her<g ref="char:EOLhyphen"/>ring Pond,</hi> ſince after Four-footed Beaſts, and Birds, Fiſh comes next in courſe.</p>
+            <p>There was a time, when the <hi>Scaly Inhabi<g ref="char:EOLhyphen"/>tants</hi> of the Ocean were divided into ſeveral Empires, Kingdoms, Common-wealths, and Pro<g ref="char:EOLhyphen"/>vinces; each <hi>watry Nation</hi> being ſubject to their reſpective Sovereigns, even as 'tis here on the <hi>Land.</hi>
+            </p>
+            <p>Amongſt the reſt, the <hi>Shark</hi> reign'd over the <hi>Gudgeons;</hi> he a voracious, cruel, tyrannical Fiſh; they ſilly, tame, weak, deſpicable Ani<g ref="char:EOLhyphen"/>mals, <hi>cut out for Slavery and Contempt.</hi> This <hi>Shark,</hi> or King of the <hi>Gudgeons,</hi> was the worſt of all his Race; for he won'd enter into Leagues with other <hi>Royal Fiſhes,</hi> his Neighbours, only to render them the more ſecure, whilſt he a<g ref="char:EOLhyphen"/>maſs'd up huge Treaſures by Oppreſſion of his Subjects, and rais'd great Armies, with deſign to ruſh ſuddenly upon his Friends and Allyes, to bring them into Contribution and Slavery.</p>
+            <p>He had one potent Neighbour, who was an <hi>Emperour among the Fiſh,</hi> and had many Princes ſubject to him. The <hi>Shark</hi> bore a great ſpight to this <hi>Imperial Fiſh,</hi> and often invaded his Ter<g ref="char:EOLhyphen"/>ritories, and made great Havock and Devaſta<g ref="char:EOLhyphen"/>tion among his Subjects; for he would come on the ſuddain, (as 'tis the nature of that ſly Fiſh,) and <hi>ſnap off a whole Limb,</hi> or Branch of the Empire, together, at a Mouthfull; and this at ſuch a time as they were all at Peace, and never dream'd of any ſuch Uſage. And to ſhew that he abſolutely deſign'd the total ruine of the <hi>Imperial Fiſh,</hi> and all his Dependants, the <hi>Shark</hi> ſent Ambaſſadors to the <hi>Whale,</hi> a mighty Fiſh; and who had the largeſt Dominions, the ſtrong<g ref="char:EOLhyphen"/>eſt Armies, and richeſt Treaſury of any <hi>Royal Fiſh</hi> in the Ocean: A proud Fiſh alſo, proud as <hi>Lucifer;</hi> for diſdaining all Earthly Emblems, he wrote the <hi>Moon for his Crest,</hi> and ſtyl'd him<g ref="char:EOLhyphen"/>ſelf the <hi>Shadow of God.</hi> To this terrible <hi>Whale,</hi> I ſay, the <hi>Shark</hi> ſent Ambaſſadors, and made private Leagues with him, againſt the <hi>Imperial Fiſh,</hi> perſwading him to ſend Armies to invade the Imperial Territories. Thus whilſt the <hi>Im<g ref="char:EOLhyphen"/>perial Fiſh</hi> was buſie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on one ſide, in defending himſelf and his Empire againſt the Incurſions of the <hi>Whale,</hi> the <hi>Shark</hi> takes the Opportunity and breaking all his Treaties of Peace, leaps ſuddainly into the Bowels of the Empire, plun<g ref="char:EOLhyphen"/>dering, murthering and deſolating all, where<g ref="char:EOLhyphen"/>ſoever he came.</p>
+            <p>Yet the <hi>Shark;</hi> not content thus to ruine the <hi>Imperial Fiſh,</hi> ſets upon another King, among the <hi>Scaly Nations,</hi> that was a near Relation, Friend and Allye of the <hi>Imperial Fiſh:</hi> He ſends Armies, and invades the Territories of this King alſo, who was called the <hi>Sea Bull;</hi> lays waſte his Dominions, leads his Subjects into Captivity, and does him all the miſchief that his Malice, Ambition, Covetouſneſs and Pride could prompt him to.</p>
+            <p>Thus the Wars continued amongſt the <hi>Watry Nations</hi> for many Years, great Maſſacres and Depopulations were committed by the <hi>Shark,</hi> the <hi>Whale,</hi> and their Armies, ſo that the Sea was dyed red with Blood.</p>
+            <p>Whilſt theſe things were tranſacting, it ſo fell out, that the <hi>Crocodile</hi> was made King over the <hi>Whitings, Salmons, Mayhrills, and Pikes,</hi> and other Fiſh: having by various cunning Trains, and wheadling Artifices, perſwaded that inno<g ref="char:EOLhyphen"/>cent ſort of Fiſh, that he was a <hi>Dolphin,</hi> and no <hi>Crocodile;</hi> and having made them large Pro<g ref="char:EOLhyphen"/>miſes, confirming them alſo with an Oath, that they ſhould enjoy their ancient, native Free<g ref="char:EOLhyphen"/>dom and Liberty in all things. So that the poor <hi>Whitings,</hi> deluded by theſe fair Words, and the inſinuating Stories of the <hi>Mayhrills,</hi> and over-power'd by the <hi>Salmons, Pikes, Stur<g ref="char:EOLhyphen"/>geons, Eels,</hi> and other Fiſh, were contented that the <hi>Crocodile</hi> ſhould reign over them.</p>
+            <p>But in proceſs of Time, the <hi>Crocodile</hi> began to appear in his naked Colours, and not only broke his Word with the <hi>Whitings,</hi> but alſo ſtretch'd forth his Tali to the <hi>Maybrills,</hi> and en<g ref="char:EOLhyphen"/>trenched upon their Priviledges. He alſo made a private League with the <hi>Shark,</hi> the <hi>Whale,</hi> and the <hi>Allegators</hi> of the <hi>Mediterranean;</hi> which gave great ſuſpicion to his own Subjects, as well as to the neighbouring Princes and States among the Fiſh. Great were the Diſcontents of the <hi>Maybrills,</hi> the <hi>Whitings,</hi> and other Fiſh under the <hi>Crocodile's</hi> Dominion: They found they were miſtaken in their King, who now prov'd a <hi>real Crocodile,</hi> a Fiſh of Prey, and dai<g ref="char:EOLhyphen"/>ly impoſ'd on his Subjects ſuch Laws and Or<g ref="char:EOLhyphen"/>ders, as plainly tended to enſlave both them and their Poſterity. This made them cabal, and lay their heads together how to ſave themſelves from imminent Ruin: So at length it was agreed upon, among the <hi>Makyrills, Salmons, Pikes, Eles,</hi> and other Fiſh under the <hi>Crocodile's</hi> Dominion, to remonſtrate their Caſe to the <hi>Dolphin,</hi> and invite him to come and deliver them from the <hi>Crocodile's Tyranny;</hi> for indeed, the <hi>Dolphin</hi> had a kind of Title to the Government of the <hi>Whi<g ref="char:EOLhyphen"/>tings, &amp;c.</hi> being deſcended of the Bloud of their ancient Kings. So the <hi>Dolphin</hi> makes prepara<g ref="char:EOLhyphen"/>tion to go againſt the <hi>Crocodile,</hi> being aſſiſted by the Common-wealth of <hi>Herrings,</hi> among whom this Prince kept his Court. In a Word, Upon the firſt Approach of the <hi>Royal Dolphin,</hi> with his Army of <hi>Herrings,</hi> the <hi>Crocodile</hi>'s Sub<g ref="char:EOLhyphen"/>jects deſerted him, and joyned the <hi>Dolphin</hi>'s Ar<g ref="char:EOLhyphen"/>my; ſo that the <hi>Crocodile</hi> was forc'd to ſwim away, and take Sanctuary with the <hi>Shark.</hi>
+            </p>
+            <p>The Newes of the famous Expedition of the <hi>Dolphin,</hi> and the Flight of the <hi>Crocodile,</hi> was quickly ſpread through the Scaly Nations, and all rejoyc'd at the good Succeſs of the <hi>Dolphin,</hi> who was ſoon choſen King of the <hi>Whitings, Maycrils, Salmons,</hi> &amp;c. Then Ambaſſadors were ſent from all parts to congratulate his Ac<g ref="char:EOLhyphen"/>ceſſion to the <hi>Crocodile's</hi> Throne, and to enter into League with Him, againſt the <hi>Shark,</hi> the <hi>Whale, the Crocodile,</hi> and the Allegators of the <hi>Mediterranean.</hi> Armies were raiſed on all ſides, and many fierce Battels were fought between them: The <hi>Dolphin</hi> was look'd upon as the great Protector and Deliverer of all the Con<g ref="char:EOLhyphen"/>federate Fiſh, from the cruel Oppreſſions and Encroachments of the <hi>Whale</hi> and the <hi>Shark.</hi> But in regard the <hi>Maycrills</hi> (who were chiefly inſtrumental in bringing the <hi>Dolphin</hi> to the Crown) proved treacherous, and held a private Correſpondence with the <hi>Shark</hi> and the <hi>Croco<g ref="char:EOLhyphen"/>dile,</hi> other Meaſures were taken by the Impe<g ref="char:EOLhyphen"/>rial Fiſh, the <hi>Dolphin,</hi> the Common-wealth of Herrings, the Sea-Bull, and the reſt of the Con<g ref="char:EOLhyphen"/>federated Fiſh. And becauſe they could not entruſt their ſecret Counſels to any <hi>Ambaſsador's</hi> Envoys, or Agents, without manifeſt danger of Diſcovery; therefore they all reſolved to meet together in perſon, appointing the <hi>Herring-Pond</hi> to be the place of their Randezvouz.</p>
+            <p>In the mean while it was thought convenient for the <hi>Dolphin</hi> to ſend an Ambaſſador to the <hi>Whale,</hi> in Quality of a Mediator for Peace be<g ref="char:EOLhyphen"/>tween the <hi>Whale</hi> and the Imperial Fiſh. When the <hi>Shark</hi> heard of this, he ordered his Am<g ref="char:EOLhyphen"/>baſſador
+<pb n="1" facs="tcp:48766:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:48766:3"/>at the <hi>Whale's</hi> Court to oppoſe the Re<g ref="char:EOLhyphen"/>ception of the <hi>Dolphin's</hi> Ambaſſador with all his might; but all his Rhetorick proved ineffe<g ref="char:EOLhyphen"/>ctual, for the <hi>Dolphin's</hi> Ambaſſador was kindly receiv'd by the <hi>Whale,</hi> and his Overtures of Peace were hearkned to, which gave great En<g ref="char:EOLhyphen"/>couragement to the <hi>Confederated Fiſh</hi> to hope, That an Accomodation might be concluded be<g ref="char:EOLhyphen"/>tween the Imperial Fiſh and the <hi>Whale,</hi> where<g ref="char:EOLhyphen"/>by the former would be in a better Capacity to make War upon the <hi>Shark,</hi> his powerful Neigh<g ref="char:EOLhyphen"/>bour and old Enemy.</p>
+            <p>Well, the Time came, when the Confede<g ref="char:EOLhyphen"/>rated Soveraigns of the Fiſh were to meet to<g ref="char:EOLhyphen"/>gether; great Preparations were made to ho<g ref="char:EOLhyphen"/>nour <hi>ſo Royal and Illuſtrious a Congreſs;</hi> and eſpecially to welcom the <hi>Dolphin</hi> to the <hi>Herring-Pond,</hi> who was made Guarantee of this <hi>Princely League.</hi> In fine, they meet at the Time and Place appointed, not without great danger of the <hi>Dolphin's</hi> Life and Liberty, who as he was ſwimming to the place of Rendezvous, hap<g ref="char:EOLhyphen"/>pened to be benighted, and <hi>stuck his Fins</hi> faſt on a Shelf of Ice, ſo that he could not diſingage Himſelf in leſs than 18 Hours time, whereby he was lyable to have been ſtarv'd to Death with Hunger and Cold, and likewiſe to have been kill'd or taken Priſoner by any of the <hi>Shark's</hi> Scouts,, who uſed to ly in wait in thoſe parts. But <hi>Neptune</hi> and Heaven were kinder to him, and next Day he happily got rid of this Remo<g ref="char:EOLhyphen"/>ra, and arrived ſafe at the <hi>Herring-Pond,</hi> to the inexpreſſible Joy and Satisfaction of all the Fiſh in thoſe parts.</p>
+            <p>
+               <hi>Monſieur</hi> the <hi>Shark</hi> finding all things to ſuc<g ref="char:EOLhyphen"/>ceed well to the Confederated Fiſhes, and that he himſelf was like to be caught in a Net, they having ſurrounded Him with Armies on all Hands, and having made a fair Step towards the concluding of a Peace with the <hi>Whale;</hi> conſidering theſe things, I ſay, he ſent an Am<g ref="char:EOLhyphen"/>baſſador to the Congreſs at the <hi>Herring-Pond,</hi> with ſpacious pretences, and inſinuating Whea<g ref="char:EOLhyphen"/>dles, in order to an Accomodation. This Am<g ref="char:EOLhyphen"/>baſſador was a Fiſh of no ſmall Quality and Extraction, a cunning Stateſman and good O<g ref="char:EOLhyphen"/>rator: <hi>(For the Fiſh do not come a whit behind the Birds and Beaſts in all manner of Accompliſh<g ref="char:EOLhyphen"/>ments)</hi> He Addreſſes himſelf therefore to that Auguſt Aſſembly in Words to this effect.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <head>Moſt Serene and Illuſtrious Princes, and High and Mighty Lords, &amp;c.</head>
+                     <div type="speech">
+                        <p>THE Shark <hi>my Master being deſirous to pre<g ref="char:EOLhyphen"/>vent for the future the ſpilling of the Bloud of any Fiſh, from the</hi> Whale <hi>to the</hi> Millers Thumb, <hi>has taken into ſerious conſideration, the Original, progreſs, and preſent ſtate of the War between him and the confederated Soveraigns of the Fiſh; and having maturely weighed all things in his impartial Gills and finding his end approaching (for he was well ſtricken in years) for the better diſcharging of his conſcience, has ſent me to ac<g ref="char:EOLhyphen"/>knowledge in his Name, that he is the firſt Ag<g ref="char:EOLhyphen"/>greſsor, and that the inſatiable Thirſt of Empire has carried him beyond the Bounds of Juſtice and the civil Laws of the Sea. Wherefore being deſirous to die in peace, &amp; repoſe his old carcaſe in Quiet, he has made his laſt VVill and Teſtament, where<g ref="char:EOLhyphen"/>of I here preſent your Royal Highneſs, and your High and Mightineſs, an Authentick Copy under my Maſters own Signet, and the publick Seal of his Kingdom.</hi>
+                        </p>
+                        <div type="will">
+                           <head>A Copy of the <hi>Shark's</hi> Laſt Will and Teſtament.</head>
+                           <p>IN <hi>the Name of</hi> Neptune <hi>and</hi> Thetis <hi>and all the</hi> Sea Gods <hi>and</hi> Goddeſſes, &amp;c. I Lodo<g ref="char:EOLhyphen"/>wick Rhodomontado Shark, <hi>King of the Gudge<g ref="char:EOLhyphen"/>ons and other</hi> Watry People, <hi>finding my Fins be<g ref="char:EOLhyphen"/>gin to decay and fail me, my Teeth grow rotten and drop out, with many other Symptoms of approaching Death; being alſo of a great Age and my Carkaſs almoſt rotten, yet in perfect ſound Senſe and preſence of Mind, have thought fit to make, and do by theſe Preſents make this my last will and Teſtament.</hi>
+                           </p>
+                           <p>Imprimis, <hi>I reſtore all the Bones of the</hi> Her<g ref="char:EOLhyphen"/>rings, Turbets, Mullers, <hi>Plaiſe, Flounders and other Fiſh, whom I and my Armies have maſsacr'd in the Dominion of the</hi> Imperial Fiſh, <hi>the Sea-Bull or any of their Friends and Allies; I ſay I reſtore theſe Bones to the ſurviving Friends and Re<g ref="char:EOLhyphen"/>lations of the Fiſhes ſo maſſacr'd to be diſpos'd of at their Diſcretion.</hi>
+                           </p>
+                           <p n="2">2. Item, <hi>I bequeath to the</hi> Imperial Fiſh, <hi>the</hi> Sea-Bull <hi>and their Friends and Allies, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap>l thoſe great or ſmall Limbs and Brancoes which I have at ſeveral times ſlyly and unjuſtly ſnapt from them when they were not aware of me.</hi>
+                           </p>
+                           <p n="3">3. Item, <hi>I bequeath to the aforeſaid Perſons all the</hi> Contribution Mony, <hi>that I have unjuſtly ſqueez'd from their Subjects by</hi> Fire <hi>and</hi> Sword. <hi>With an Overplus of as many Millions as will compenſat for the Loſses ſustain'd by their ſaid Sub<g ref="char:EOLhyphen"/>jects in Houſes, Goods and Proviſion plunder'd and destroyed by my Armies.</hi>
+                           </p>
+                           <p n="4">4. Item, <hi>I bequeath</hi> my Kingdom <hi>to the Dolphin and the reſt of the</hi> Confederated <hi>Fiſhes, as they can agree about it.</hi>
+                           </p>
+                           <p n="5">5. Laſtly, <hi>I bequeath my Carcaſe to the</hi> Sea-Hogs, <hi>and my Skin to be ſtuffed and hung up for a</hi> Memorial <hi>on the Top of Mount</hi> Teneriff, <hi>as a ſign to all ſucceeding Generations. And I appoint the</hi> Imperial Fiſh, <hi>the Dolphin, the Sea-Bull with the reſt of their Friends and Allies to be the Ex<g ref="char:EOLhyphen"/>ecutions of this my last will and Testament. Pro<g ref="char:EOLhyphen"/>vided always, That they ſhall not moleſt me ſo long as I live, but that there ſhall be a Ceſſation of Arms from this time till the Day of my Death. After which it may and ſhall be lawful for them or any of them to enter and</hi> take Poſſeſſion of my Kingdom, <hi>and to put in Exectuion all the Par<g ref="char:EOLhyphen"/>ticulars of this my</hi> Laſt Will and Teſtament.</p>
+                           <closer>
+                              <dateline>Given at our Court at <hi>Shark-Caſtle,</hi> &amp;c.</dateline>
+                           </closer>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Monſieur <hi>Gudgeon</hi> the Shark's Ambaſſador, having thus delivered his <hi>Masters Last Will and Teſtament</hi> to the Prince and Lords of the <hi>Con<g ref="char:EOLhyphen"/>greſs,</hi> was order'd to withdraw, whilſt they conſulted about an Anſwer. There needed no great Deliberation In an Affair, which they were all provided for; wherefore after ſome time taken for <hi>Form's ſake,</hi> the Shark's Ambaſſa<g ref="char:EOLhyphen"/>dor was call'd in again, and the <hi>Speaker of the Congreſs</hi> told him in the Name of the Prince: and States there aſſembled together; That the <hi>Shark,</hi> the ſaid Ambaſſador's Maſter, had ſo often broke his Word, violuted his Promiſes and Oaths, that they were all unanimouſly reſolved never to treat with him again, but to take thoſe meaſures as ſhould ſeem moſt expedient to themſelves without giving him any <hi>further Ac<g ref="char:EOLhyphen"/>count, Reaſon or Anſwer.</hi>
+            </p>
+            <p>Away ſwims poor Pilgarlick the <hi>Gudgeon</hi> with this ſhort Reply to his Maſter the <hi>Shark,</hi> who found himſelf <hi>caught in a Trap,</hi> and knew no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which way to eſcape. He flutter'd and flounc'd from one fide of his Trap to another, like a <hi>Captive Mouſe;</hi> but all in vain, for the <hi>Herrings,</hi> the <hi>Whitings,</hi> the <hi>Salmons,</hi> the <hi>Flounders,</hi> and innumerable other ſorts of Fiſh had beſieg'd him, and hem'd him in, reſolving every one to have a touch at his old Jacket before long. What the Iſſue was, you ſhall hear, as ſoon aſ I receive the Intelligence from <hi>Neptun's Currier.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>Re-printed in the Year, 1691.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
